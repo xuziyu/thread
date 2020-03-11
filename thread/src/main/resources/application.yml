@@ -1,0 +1,6 @@
+
+thread:
+   config:
+     coreThreadNum: 4
+     maxThreadNum: 8
+     keepLiveTime: 4
